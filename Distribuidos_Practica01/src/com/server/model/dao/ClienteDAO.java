@@ -11,6 +11,7 @@ import java.util.ArrayList;
 /**
  *
  * @author alejandro
+ * @author mario
  */
 public class ClienteDAO {
 

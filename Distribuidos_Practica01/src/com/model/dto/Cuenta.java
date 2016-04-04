@@ -8,6 +8,7 @@ package com.model.dto;
 /**
  *
  * @author alejandro
+ * @author mario
  */
 public class Cuenta {
 
