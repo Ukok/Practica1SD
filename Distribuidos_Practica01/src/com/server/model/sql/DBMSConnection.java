@@ -17,8 +17,8 @@ import java.sql.SQLException;
 public class DBMSConnection {
 
   public static final String DRIVER = "com.mysql.jdbc.Driver";
-  public static final String USER = "root";
-  public static final String PASS = "mysql";
+  public static final String USER = "practica1";
+  public static final String PASS = "practica1";
   public static final String URLDB = "jdbc:mysql://127.0.0.1/practica1";
 
   public static synchronized Connection getConnection() {

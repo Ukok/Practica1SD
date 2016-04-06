@@ -1,3 +1,5 @@
+GRANT ALL ON practica1.* TO practica1@localhost
+IDENTIFIED BY 'practica1';
 -- ---
 -- Globals
 -- ---
